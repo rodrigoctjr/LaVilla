@@ -1,4 +1,4 @@
-# Lavanderia da Villa
+# Lavanderia da Vila
 This is a custom project done to a microenterprise.
 The software is being create to manage a laundry.
 Some features of project are:
